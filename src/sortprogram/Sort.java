@@ -36,7 +36,7 @@ public class Sort {
                 System.out.println("x="+x+" j= "+j);
             }  
             obj.print(a);  
-            System.out.println("");
+            System.out.println("");//oo
                   
         }  
           
